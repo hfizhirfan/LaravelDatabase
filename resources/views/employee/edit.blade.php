@@ -41,7 +41,7 @@
 
                     <div class="mb-3 text-center">
                         <i class="bi-person-circle fs-1"></i>
-                        <h4>Create Employee</h4>
+                        <h4>Edit Employee</h4>
                     </div>
                     <hr>
                     <div class="row">
